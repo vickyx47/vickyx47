@@ -19,4 +19,4 @@
 
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-shirsath&" alt="vikas-shirsath" /></p>
-![](https://komarev.com/ghpvc/?username=vikas-shirsath&style=flat-square)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-shirsath&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-shirsath" /> </p>
